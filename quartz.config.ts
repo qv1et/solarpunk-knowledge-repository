@@ -14,7 +14,7 @@ const config: QuartzConfig = {
     analytics: {
       provider: "plausible",
     },
-    locale: "de-DE",
+    locale: "en-US",
     baseUrl: "qv1et.github.io/solarpunk-knowledge-repository",
     ignorePatterns: ["private", "templates", ".obsidian"],
     defaultDateType: "created",
