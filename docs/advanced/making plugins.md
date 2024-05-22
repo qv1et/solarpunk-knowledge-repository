@@ -1,5 +1,7 @@
 ---
 title: Making your own plugins
+created: 2024-05-22T14:15
+updated: 2024-05-22T14:57
 ---
 
 > [!warning]

@@ -1,7 +1,9 @@
 ---
-title: "Frontmatter"
+title: Frontmatter
 tags:
   - plugin/transformer
+created: 2024-05-22T14:15
+updated: 2024-05-22T14:57
 ---
 
 This plugin parses the frontmatter of the page using the [gray-matter](https://github.com/jonschlinkert/gray-matter) library. See [[authoring content#Syntax]], [[Obsidian compatibility]] and [[OxHugo compatibility]] for more information.

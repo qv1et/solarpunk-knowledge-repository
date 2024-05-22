@@ -2,6 +2,8 @@
 title: OxHugoFlavoredMarkdown
 tags:
   - plugin/transformer
+created: 2024-05-22T14:15
+updated: 2024-05-22T14:57
 ---
 
 This plugin provides support for [ox-hugo](https://github.com/kaushalmodi/ox-hugo) compatibility. See [[OxHugo compatibility]] for more information.

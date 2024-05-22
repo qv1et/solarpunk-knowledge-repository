@@ -1,8 +1,10 @@
 ---
-title: "Table of Contents"
+title: Table of Contents
 tags:
   - component
   - feature/transformer
+created: 2024-05-22T14:15
+updated: 2024-05-22T14:57
 ---
 
 Quartz can automatically generate a table of contents (TOC) from a list of headings on each page. It will also show you your current scrolling position on the page by highlighting headings you've scrolled through with a different color.

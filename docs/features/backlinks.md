@@ -2,6 +2,8 @@
 title: Backlinks
 tags:
   - component
+created: 2024-05-22T14:15
+updated: 2024-05-22T14:57
 ---
 
 A backlink for a note is a link from another note to that note. Links in the backlink pane also feature rich [[popover previews]] if you have that feature enabled.

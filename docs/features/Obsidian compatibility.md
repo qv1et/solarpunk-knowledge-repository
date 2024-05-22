@@ -1,7 +1,9 @@
 ---
-title: "Obsidian Compatibility"
+title: Obsidian Compatibility
 tags:
   - feature/transformer
+created: 2024-05-22T14:15
+updated: 2024-05-22T14:57
 ---
 
 Quartz was originally designed as a tool to publish Obsidian vaults as websites. Even as the scope of Quartz has widened over time, it hasn't lost the ability to seamlessly interoperate with Obsidian.

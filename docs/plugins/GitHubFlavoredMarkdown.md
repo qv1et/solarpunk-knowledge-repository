@@ -2,6 +2,8 @@
 title: GitHubFlavoredMarkdown
 tags:
   - plugin/transformer
+created: 2024-05-22T14:15
+updated: 2024-05-22T14:57
 ---
 
 This plugin enhances Markdown processing to support GitHub Flavored Markdown (GFM) which adds features like autolink literals, footnotes, strikethrough, tables and tasklists.

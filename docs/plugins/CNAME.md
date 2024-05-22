@@ -2,6 +2,8 @@
 title: CNAME
 tags:
   - plugin/emitter
+created: 2024-05-22T14:15
+updated: 2024-05-22T14:57
 ---
 
 This plugin emits a `CNAME` record that points your subdomain to the default domain of your site.
