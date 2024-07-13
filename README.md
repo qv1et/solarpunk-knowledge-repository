@@ -12,3 +12,7 @@ The Solarpunk Knowledge Repository is a Digital Garden, growing a network of kno
 The website is built using [Quartz](https://github.com/jackyzha0/quartz).
 
 The logo was created by [roguecache](https://www.reddit.com/user/roguecache/).
+
+Fonts:
+- RobotoSlab was created by Christian Robertson and is licensed under the [Apache License, Version 2.0](https://www.apache.org/licenses/LICENSE-2.0).
+- Teutonic was created by Peter Wiegel and is under the [SIL Open Font License, Version 1.1](http://scripts.sil.org/OFL).

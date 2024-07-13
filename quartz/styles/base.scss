@@ -295,20 +295,42 @@ h6 {
 }
 
 // typography improvements
+@font-face {
+  font-family: 'Teutonic';
+  src: url('/static/fonts/Teutonic.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'RobotoSlab';
+  src: url('/static/fonts/RobotoSlab-VariableFont_wght.ttf') format('truetype');
+}
+
+body {
+  font-family: 'RobotoSlab';
+  font-weight: 300;
+  font-size: 1.25rem;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: 'Teutonic';
+}
+
 h1 {
-  font-size: 1.75rem;
+  font-size: 2.5rem;
   margin-top: 2.25rem;
   margin-bottom: 1rem;
 }
 
 h2 {
-  font-size: 1.4rem;
+  font-size: 2rem;
   margin-top: 1.9rem;
   margin-bottom: 1rem;
 }
 
 h3 {
-  font-size: 1.12rem;
+  font-size: 1.75rem;
   margin-top: 1.62rem;
   margin-bottom: 1rem;
 }
@@ -316,7 +338,7 @@ h3 {
 h4,
 h5,
 h6 {
-  font-size: 1rem;
+  font-size: 1.5rem;
   margin-top: 1.5rem;
   margin-bottom: 1rem;
 }
