@@ -1,6 +1,9 @@
 ---
 created: 2024-05-23T11:47
-updated: 2024-05-30T18:00
+updated: 2024-07-13T14:37
+aliases:
+  - Visual Sitemap
+title: 🗺️ Visual Sitemap
 ---
 The page structure might end up looking something like this. 
 The text should consist of clickable links.
@@ -16,6 +19,7 @@ Solarpunk Knowledge Repository((Atlas))
 		)Unions(
 	Care
 		[Medicine]
+		  )Plant Medicine(
 		[Mental Health]
 	Community & Work
 	  [Community Infrastructure]
