@@ -22,8 +22,8 @@ const config: QuartzConfig = {
       fontOrigin: "local",
       cdnCaching: false,
       typography: {
-        header: "TeX Gyre Cursor",
-        body: "TeX Gyre Cursor",
+        header: "Teutonic",
+        body: "RobotoSlab",
         code: "IBM Plex Mono",
       },
       colors: {
