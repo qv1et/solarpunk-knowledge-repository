@@ -20,7 +20,7 @@ const config: QuartzConfig = {
     defaultDateType: "created",
     theme: {
       fontOrigin: "local",
-      cdnCaching: true,
+      cdnCaching: false,
       typography: {
         header: "TeX Gyre Cursor",
         body: "TeX Gyre Cursor",
