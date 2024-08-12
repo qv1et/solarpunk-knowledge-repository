@@ -1,6 +1,6 @@
 ---
 created: 2024-06-21T14:52
-updated: 2024-08-12T17:30
+updated: 2024-08-12T18:04
 aliases:
   - Solarpunk
 title: 🌲 Solarpunk
@@ -15,7 +15,7 @@ Some of the characteristics of Solarpunk (both visually and ideologically) have 
 
 One of the best depictions of Solarpunk to date was created as an advertisement. Fortunately there is a decommodified version in which the branding has been removed: ['Dear Alice' Decommodified Edition](https://www.youtube.com/watch?v=UqJJktxCY9U)
 
-For a more politically explicit and socially conscious depiction of Solarpunk, check out the short comic [We Would Call It Solarpunk](https://www.reddit.com/r/solarpunk/comments/16kem1g/we_would_call_it_solarpunk_comic_by_thelemonaut/) by the-lemonaut.
+For a more politically explicit and socially conscious depiction of Solarpunk, check out the short comic [We Would Call It Solarpunk](https://www.reddit.com/r/solarpunk/comments/16kem1g/we_would_call_it_solarpunk_comic_by_thelemonaut/) by [the-lemonaut](https://www.tumblr.com/the-lemonaut/).
 
 ### My Appeal to You
 When seeing these images you might feel inspired and excited. They could make you say "Yes! This is the future I want to live in!". But maybe you are also sceptical. You might say "Well this all looks quite nice but it's never going to happen". This would be quite justified, given the state of the world and the trajectory that things seem to be going.
