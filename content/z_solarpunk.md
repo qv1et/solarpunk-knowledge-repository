@@ -1,6 +1,6 @@
 ---
 created: 2024-06-21T14:52
-updated: 2024-07-13T15:00
+updated: 2024-08-12T17:30
 aliases:
   - Solarpunk
 title: 🌲 Solarpunk
@@ -24,4 +24,4 @@ I want to encourage you to look at Solarpunk (the aesthetic) not as an escapist 
 
 When we do this we will start to see a flowering of possibilities even amidst a larger picture of decline. We will catch glimmers of the world we know and feel to be possible. We will realize that we are many and there are already thousands of people and projects out there that align with Solarpunk values and visions - whether they know of and affiliate themselves with the Solarpunk movement or not.
 
-This website you are currently reading could help make them more visible, to connect people and projects and to grow the collective knowledge commons. Every one of us has relevant information so if you are able, I would love it if you would share what you know and [[p_solarpunk-knowledge-repository#Contribute|contribute to the Solarpunk Knowledge Repository]].
+[[p_solarpunk-knowledge-repository|This website]] aims to grow a collective knowledge commons, to connect people and projects (see [[m_solarpunk-communities|Solarpunk Communities]]) and thus to empower us to put the vision of Solarpunk into practice. To this end, each one of us probably has some valuable information to give. So if you are able, we would love it if you could share what you know and [[p_solarpunk-knowledge-repository#Contribute|contribute to the Solarpunk Knowledge Repository]].
