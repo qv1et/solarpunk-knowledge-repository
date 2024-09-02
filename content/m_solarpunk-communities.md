@@ -1,6 +1,6 @@
 ---
 created: 2024-08-12T14:48
-updated: 2024-08-12T16:49
+updated: 2024-09-02T22:59
 aliases:
   - Solarpunk Communities
 title: 🗺️ Solarpunk Communities
@@ -14,7 +14,13 @@ Since it's emergence, Solarpunk communities have been primarily online. However,
 
 ### Online Communities
 - [SolarPunk Telegram](https://t.me/SolarPunk)
+- [SLRPNK Lemmy](https://slrpnk.net/)
 - [r/solarpunk (Reddit)](https://www.reddit.com/r/solarpunk/)
+
+#### Discord
+| Server (Invite Link)                                         | Description        | Tags |
+| ------------------------------------------------------------ | ------------------ | ---- |
+| [The Commune](https://discord.com/invite/EdQGwce6GV)         | Andrewism's server |      | 
 
 ### Events
 | Date            | Event Title | Location             | Link                                   |
