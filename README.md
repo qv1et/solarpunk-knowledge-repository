@@ -18,4 +18,4 @@ Fonts:
 - Teutonic was created by Peter Wiegel and is under the [SIL Open Font License, Version 1.1](http://scripts.sil.org/OFL).
 
 ## License
-The content of this project is licensed under [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). The source code used to format and display that content is licensed under the [MIT license](https://github.com/qv1et/solarpunk-knowledge-repository/blob/v4/LICENSE.txt).
+The content of this project is licensed under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/). The source code used to format and display that content is licensed under the [MIT license](https://github.com/qv1et/solarpunk-knowledge-repository/blob/v4/LICENSE.txt).
