@@ -18,10 +18,15 @@ Since it's emergence, Solarpunk communities have been primarily online. However,
 - [r/solarpunk (Reddit)](https://www.reddit.com/r/solarpunk/)
 
 #### Discord
-| Server (Invite Link)                                         | Description                                                                        | Tags |
-| ------------------------------------------------------------ | ---------------------------------------------------------------------------------- | ---- |
-| [The Commune](https://discord.com/invite/EdQGwce6GV)         | Andrewism's server                                                                 |      | 
-| [Solarpunk Hub](https://discord.gg/8J42yHESr3)               | Collaboration space and connecting point between a number of solarpunk communities |      |
+| Server (Invite Link)                                                  | Description                                                                                                 | Tags                 |
+| --------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------- | -------------------- |
+| [The Commune](https://discord.com/invite/EdQGwce6GV)                  | Andrewism's server                                                                                          | Community            | 
+| [Solarpunk Hub](https://discord.gg/8J42yHESr3)                        | Collaboration space and connecting point between a number of solarpunk communities                          | Community, Resources |
+| [Good Earth Archive](https://discord.gg/qxqDfJaMbS)                   | Community created library of Solarpunk and related resources, content creators and guides                   | Resources            |
+| [Solarpunk](https://discord.gg/9QFfsbGSyS)                            | Where a number of solarpunk YTers and podcasters hang their hats                                            | Community            |
+| [Anarchist Solarpunk](https://discord.gg/XP4pSqRZ8A)                  | Exploring visions of a real solarpunk future that we can create now, and not waiting for it to happen       | Community            |
+| [Solarpunk Positivity & Mental Health](https://discord.gg/bgN2Uf5DY2) | Dedicated space for nurturing productive positivity, as well as helping eachother through our mental health | Support, Community   |
+| [Solarpunk Artists & Writers](https://discord.gg/T3vZENJYs2)          | A server for sharing and discussing solarpunk art, writing, and crafts of all kinds                         | Art, Collaboration   |
 
 ### Events
 | Date            | Event Title | Location             | Link                                   |
