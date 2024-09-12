@@ -18,9 +18,10 @@ Since it's emergence, Solarpunk communities have been primarily online. However,
 - [r/solarpunk (Reddit)](https://www.reddit.com/r/solarpunk/)
 
 #### Discord
-| Server (Invite Link)                                         | Description        | Tags |
-| ------------------------------------------------------------ | ------------------ | ---- |
-| [The Commune](https://discord.com/invite/EdQGwce6GV)         | Andrewism's server |      | 
+| Server (Invite Link)                                         | Description                                                                        | Tags |
+| ------------------------------------------------------------ | ---------------------------------------------------------------------------------- | ---- |
+| [The Commune](https://discord.com/invite/EdQGwce6GV)         | Andrewism's server                                                                 |      | 
+| [Solarpunk Hub](https://discord.gg/8J42yHESr3)               | Collaboration space and connecting point between a number of solarpunk communities |      |
 
 ### Events
 | Date            | Event Title | Location             | Link                                   |
