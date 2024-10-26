@@ -1,5 +1,5 @@
-# Solarpunk Knowledge Repository
-The Solarpunk Knowledge Repository is a Digital Garden, growing a network of knowledge and ideas that will be useful in building a more hopeful, ecological and just society, starting today.
+# Solarpunk Knowledge Garden
+The Solarpunk Knowledge Garden is a growing network of knowledge and ideas that will be useful in building a more hopeful, ecological and just society, starting today.
 
 ## Setup
 ### Run Locally

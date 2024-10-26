@@ -1,13 +1,13 @@
 ---
 created: 2024-08-12T14:48
-updated: 2024-09-02T22:59
+updated: 2024-09-17T10:28
 aliases:
   - Solarpunk Communities
 title: 🗺️ Solarpunk Communities
 ---
 
 > [!todo] Contributions needed
-> This page only contains a small fraction of the communities and events related to Solarpunk. If there are more that you know of, we would value your [[p_solarpunk-knowledge-repository#Contribute|contribution]].
+> This page only contains a small fraction of the communities and events related to Solarpunk. If there are more that you know of, we would value your [[p_solarpunk-knowledge-garden#Contribute|contribution]].
 
 ## Explicitly Solarpunk
 Since it's emergence, Solarpunk communities have been primarily online. However, in recent years more and more events with a Solarpunk focus are taking place in real-life.

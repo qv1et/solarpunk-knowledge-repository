@@ -8,7 +8,7 @@ import * as Plugin from "./quartz/plugins"
  */
 const config: QuartzConfig = {
   configuration: {
-    pageTitle: "Solarpunk Knowledge Repository",
+    pageTitle: "Solarpunk Knowledge Garden",
     enableSPA: true,
     enablePopovers: true,
     analytics: {

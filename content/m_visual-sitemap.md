@@ -1,6 +1,6 @@
 ---
 created: 2024-05-23T11:47
-updated: 2024-07-13T14:37
+updated: 2024-10-26T22:08
 aliases:
   - Visual Sitemap
 title: 🗺️ Visual Sitemap
@@ -9,7 +9,7 @@ The page structure might end up looking something like this.
 The text should consist of clickable links.
 ```mermaid
 mindmap
-Solarpunk Knowledge Repository((Atlas))
+Solarpunk Knowledge Garden((Atlas))
 	Activism & Organizing
 		[Antifascism]
 		[Ecological Defense]

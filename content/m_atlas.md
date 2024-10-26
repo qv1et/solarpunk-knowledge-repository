@@ -1,11 +1,11 @@
 ---
 created: 2024-05-22T17:24
-updated: 2024-07-13T15:39
+updated: 2024-10-26T22:07
 aliases:
   - Atlas
 title: 🗺️ Atlas
 ---
-This page is your map to the Solarpunk Knowledge Repository (SKP) - or more specifically an atlas - a map of maps.
+This page is your map to the Solarpunk Knowledge Garden (SKG) - or more specifically an atlas - a map of maps.
 
 If you want to dive right in, you can start exploring the content of the SKP [[#By Area]] or [[#By Topic]].
 
